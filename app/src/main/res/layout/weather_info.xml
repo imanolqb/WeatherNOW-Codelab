@@ -14,7 +14,7 @@
         android:layout_marginBottom="16dp"
         app:cardCornerRadius="12dp"
         app:cardElevation="4dp"
-        android:backgroundTint="#4B8BBE">
+        android:backgroundTint="#2E65B4">
 
         <TextView
             android:id="@+id/textViewCity"
@@ -34,7 +34,7 @@
         android:layout_marginBottom="16dp"
         app:cardCornerRadius="12dp"
         app:cardElevation="4dp"
-        android:backgroundTint="#FF6F61">
+        android:backgroundTint="#3A79C8">
 
         <TextView
             android:id="@+id/textViewTemperature"
@@ -54,7 +54,7 @@
         android:layout_marginBottom="16dp"
         app:cardCornerRadius="12dp"
         app:cardElevation="4dp"
-        android:backgroundTint="#B2B2FF">
+        android:backgroundTint="#468DDB">
 
         <TextView
             android:id="@+id/textViewWeatherDescription"
@@ -73,7 +73,7 @@
         android:layout_height="wrap_content"
         app:cardCornerRadius="12dp"
         app:cardElevation="4dp"
-        android:backgroundTint="#8C8C8C">
+        android:backgroundTint="#529FFF">
 
         <TextView
             android:id="@+id/textViewHumidity"
