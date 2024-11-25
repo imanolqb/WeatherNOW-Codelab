@@ -3,7 +3,7 @@
 
 > - Mobile app for checking the weather
 > - Developed in Kotlin at the initiative of ULPGC students
-> - [Explore the code on GitHub](https://github.com/imanolqb/Tic-Tac-Toe-Codelab/tree/main/app/src/main/java/com/example/tic_tac_toe)
+> - [Explore the code on GitHub](https://github.com/imanolqb/WeatherNOW-Codelab)
 
 ## Description
 
